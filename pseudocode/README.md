@@ -12,6 +12,10 @@ Handwritten ideas and pseudocode supplied by Paul Chau for CISC 121 Assignment 2
 
 ## AI assistance
 
-OpenAI ChatGPT (Codex) provided ideas on how to solve the problems and assisted in preparing and formatting the final report. Assistance included explanations, help with Python solutions and comments, code review, local checks, citations, scan preparation, and PDF layout.
+OpenAI ChatGPT (Codex) provided ideas and explanations only for Triangle (q3) and MinAbsSumOfTwo (q5).
+
+Paul Chau independently solved Distinct (q1), MaxProductOfThree (q2), and AbsDistinct (q4). Paul Chau wrote all handwritten pseudocode, Python code, and code comments for all five problems.
+
+AI assisted in preparing and formatting the final report, including report descriptions, citations, scan cropping and contrast adjustment, typesetting, and PDF layout.
 
 [AI conversation](https://chatgpt.com/s/t_6affd209dfc481918b2ba074b06d87b4)

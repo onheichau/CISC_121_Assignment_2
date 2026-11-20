@@ -18,4 +18,4 @@ Paul Chau independently solved Distinct (q1), MaxProductOfThree (q2), and AbsDis
 
 AI assisted in preparing and formatting the final report, including report descriptions, citations, scan cropping and contrast adjustment, typesetting, and PDF layout.
 
-[AI conversation](https://chatgpt.com/s/t_6affd209dfc481918b2ba074b06d87b4)
+[AI conversation](https://chatgpt.com/share/6affd535-7cf8-83e9-95c6-17a6aba67d9e)
